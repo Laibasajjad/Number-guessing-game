@@ -1,11 +1,14 @@
 # Number Guessing Game – COAL Semester Project
 
 **Author:** Laiba Sajjad
+
 **Course:** Computer Organization and Assembly Language (COAL)
+
 **Project Type:** Assembly Language (MASM)
+
 **Library Used:** Irvine32.inc
 
----
+
 
 ## Project Overview
 
@@ -18,7 +21,7 @@ The **Number Guessing Game** is implemented in **MASM Assembly Language** for th
 
 The game allows the user to **guess a randomly generated number** within a limited number of attempts, providing feedback after each guess. It also tracks the **history of guesses**, illustrating how data is managed at the assembly level.
 
----
+
 
 ## Features
 
@@ -29,7 +32,7 @@ The game allows the user to **guess a randomly generated number** within a limit
 * **Guess History:** Stores all guesses in memory, demonstrating stack and array handling.
 * **Stack Demonstration:** Clearly shows how parameters and local variables are pushed to and popped from the stack.
 
----
+
 
 ## Learning Outcomes
 
@@ -41,7 +44,7 @@ By completing this project, you will learn:
 4. How to interact with the console using the **Irvine32 library**.
 5. How to debug assembly programs and analyze **stack behavior** step by step.
 
----
+
 
 ## Prerequisites
 
@@ -49,7 +52,7 @@ By completing this project, you will learn:
 * **Irvine32.inc** library
 * Basic knowledge of x86 assembly and stack operations
 
----
+
 
 ## Files in the Repository
 
@@ -58,7 +61,6 @@ By completing this project, you will learn:
 * `.vs/` – Visual Studio project files (optional, can be ignored)
 * `Debug/` – Compiled binaries (optional)
 
----
 
 ## How to Run
 
@@ -68,13 +70,13 @@ By completing this project, you will learn:
 4. Enter your guesses when prompted.
 5. Try to guess the number before your attempts run out.
 
----
+
 
 ## GitHub Repository
 
 [Number Guessing Game Repository](https://github.com/Laibasajjad/Number-guessing-game)
 
----
+
 
 ## Future Improvements(you may implement)
 
@@ -82,7 +84,7 @@ By completing this project, you will learn:
 * Store multiple players’ scores and display a leaderboard.
 * Add graphical interface using Windows API (optional for advanced users).
 
----
+
 
 ## License
 
